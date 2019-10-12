@@ -4,4 +4,13 @@
     <string name="pwd">Password</string>
     <string name="login">Login</string>
     <string name="reg">Register</string>
+    <string name="dob">Date of Birth</string>
+    <string name="gen">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="update">Update Profile</string>
+    <string name="search">Search</string>
+    <string name="edit">Edit</string>
+    <string name="del">Delete</string>
+
 </resources>
